@@ -21,3 +21,12 @@ Fixes:
 
 Features:
  - Apple Silicon support
+
+
+## v0.0.4
+
+Fixes:
+ - None
+
+Features:
+ - Just a Test
