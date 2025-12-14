@@ -1,0 +1,12 @@
+{
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.buildBeforeRun": true,
+    "cmake.configureOnOpen": false,
+    "cmake.useCMakePresets": "always",
+    "files.associations": {
+        "mcusemihost.h": "c"
+    },
+    "gcovViewer.buildDirectories": [
+        "/workspace/build/Debug"
+    ]
+}
