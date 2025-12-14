@@ -13,3 +13,11 @@ Fixes:
 
 Features:
  - Apple Silicon support
+
+## v0.0.3
+
+Fixes:
+ - None
+
+Features:
+ - Apple Silicon support
